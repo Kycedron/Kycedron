@@ -1,4 +1,4 @@
-### <div align="center">I'm Igor, a full-time React freelance developer 👨‍💻 </div>  
+### <div align="center">I'm Efrem, a full-time React freelance developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Nova Developers Co](https://github.com/NovaDevelopersCo)  
